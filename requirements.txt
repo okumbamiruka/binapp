@@ -1,8 +1,8 @@
-binance_connector==3.5.1
-pandas==1.5.3
-python_binance==1.0.19
-SQLAlchemy==2.0.24
-st_annotated_text==4.0.1
-streamlit==1.29.0
-streamlit_card==1.0.0
-websocket_client==0.56.0
+binance_connector
+pandas
+python_binance
+SQLAlchemy
+st_annotated_text
+streamlit
+streamlit_card
+websocket_client
