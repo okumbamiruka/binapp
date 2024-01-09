@@ -136,7 +136,7 @@ add_script_run_ctx(thread=t, ctx=ctx)
      
             
 #socket = 'wss://stream.binance.com:9443/stream?streams='+relevant
-socket = 'wss://fstream.binance.us/stream?streams='+relevant
+socket = 'wss://data.binance.com/stream?streams='+relevant
 #socket = 'wss://stream.binancefuture.com/stream?streams='+relevant
 ws = websocket.WebSocketApp(socket,on_message=on_message)
 ws.run_forever()
