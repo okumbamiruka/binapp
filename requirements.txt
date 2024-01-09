@@ -6,4 +6,3 @@ st_annotated_text==4.0.1
 streamlit==1.29.0
 streamlit_card==1.0.0
 websocket_client==0.56.0
-streamlit==1.23.1
